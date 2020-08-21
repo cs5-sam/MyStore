@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390781687227",
+    "firebase_url": "https://mystore-a612c.firebaseio.com",
+    "project_id": "mystore-a612c",
+    "storage_bucket": "mystore-a612c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390781687227:android:aa8194bb3504a8f6aa609e",
+        "android_client_info": {
+          "package_name": "android.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390781687227-282kemg3nt3ktdfj9duk4m1afjeu2ma9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH8ZD5VqkEXBCp_3n-TbrdHdlOsSKlhrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390781687227-282kemg3nt3ktdfj9duk4m1afjeu2ma9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
